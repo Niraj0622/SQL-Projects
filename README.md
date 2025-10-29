@@ -6,7 +6,7 @@ Collection of SQL projects: Loan Management System &amp; Order Stock and Work Or
 Projects:
 - Loan Management System — folder: Loan_Management_System
 SQL-based system for managing loan data and triggers.
-- link -> https://docs.google.com/presentation/d/1WNesWZqtwu1PPfid8Unb7OLVKgcQSfmH/edit?usp=sharing&ouid=101122439267645822106&rtpof=true&sd=true
+- link -> https://docs.google.com/presentation/d/1S4hCOrL5H8tgL4SEt9ekeUCBVWaMCPU8/edit?usp=sharing&ouid=101122439267645822106&rtpof=true&sd=true
 
   
 - Order Stock and Work Order Analysis — folder: Order_Stock_and_Work_Order_Analysis
